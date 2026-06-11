@@ -1,55 +1,39 @@
-
 # Jonathan Lyn-Shue
 
-**Fractional CIO/CTO** | Data & AI Strategy | Edge Computing
+**Data & AI Executive** | Fractional CIO/CTO | [jonathanlynshue.com](https://jonathanlynshue.com)
 
-I help growth-stage companies build technology leadership infrastructure — enterprise-grade architecture at startup speed.
+I build AI workflow systems that remove executive reporting and coordination bottlenecks — edge inference, multi-model orchestration, and privacy-first architecture. Enterprise rigor at startup velocity.
 
-## Currently Building
+## Currently
 
-- 🔭 **Anuba Technologies** — Edge AI for physical operations (NVIDIA Inception, 2 patents)
-- 🎯 **Fractional CIO/CTO** — Available for growth-stage companies ($10M-$100M)
+- **Anuba Technologies** — Co-Founder & CIO. Edge AI for physical operations (NVIDIA Inception, 2 provisional patents)
+- **Fractional CIO/CTO** — Available for growth-stage companies needing senior technology leadership
 
-## What I'm Known For
+## Featured Projects
 
-- Global data architecture across 16 automotive brands (Stellantis)
-- $1.4B+ measurable e-commerce revenue growth
-- Edge inference pipelines with sub-300ms latency
-- AI systems in production, not just POCs
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [correspond-os](https://github.com/jlynshue/correspond-os) | Multi-channel correspondence triage engine | TypeScript, Bun, MCP |
+| [local-private-orchestration](https://github.com/jlynshue/local-private-orchestration) | Privacy-preserving AI agent with PII detection | Python, MCP, SQLCipher |
+| [multi-model-query](https://github.com/jlynshue/multi-model-query) | Fan-out prompts to multiple AI models in parallel | Python, asyncio, Bedrock |
+| [open-ats](https://github.com/jlynshue/open-ats) | Open-source ATS resume scanner — transparent scoring | Python, NLP |
+| [leverage-os](https://github.com/jlynshue/leverage-os) | Strategic self-audit CLI (Naval Ravikant frameworks) | Python, AWS Bedrock |
+| [Sheila](https://github.com/jlynshue/Sheila) | Local-first research copilot with voice | Electron, Python, MCP |
+| [executive-workflow-mapping](https://github.com/jlynshue/executive-workflow-mapping) | Enterprise workflow diagnosis framework | Methodology, YAML |
 
-## Recent Focus Areas
+## Background
 
-```
-┌─────────────────────────────────────────────────┐
-│  Edge AI & Computer Vision                       │
-│  RAG Systems & Enterprise Search                 │
-│  Data Platform Architecture & Governance         │
-│  AI-Powered Workflow Automation                   │
-│  Cloud Infrastructure (AWS/Azure/GCP)            │
-└─────────────────────────────────────────────────┘
-```
+15+ years in enterprise data & AI — from Fortune 500 global programs to founding an edge-AI startup.
 
-## Tech I Work With
+- **Anuba Technologies** — CIO & Co-Founder. Edge computer vision for QSR. NVIDIA Inception. Two provisional patents.
+- **Stellantis** — Global analytics strategy across 14 automotive brands (250+ stakeholders)
+- **Southern Glazer's** — Analytics pipeline engineering; platform grew $100M → $1.4B+ in 18 months
+- **Razorfish/Publicis** — 11 years. Samsung, Marriott, Bridgestone, Disney. Enterprise digital transformation.
 
-`Python` `TypeScript` `AWS` `Azure` `GCP` `Snowflake` `Docker` `Terraform` `NVIDIA Jetson` `RAG` `Computer Vision` `Apache Kafka` `BigQuery` `PostgreSQL`
+## Tech
 
-## Pinned Repos (Recommended)
+`Python` `TypeScript` `AWS` `Azure` `GCP` `MCP` `Docker` `Terraform` `NVIDIA Jetson` `RAG` `Computer Vision` `BigQuery` `PostgreSQL` `Snowflake`
 
-> Pin these repos (create if they don't exist):
+## Connect
 
-1. **`data-architecture-templates`** — Reference architectures for growth-stage companies (Snowflake, BigQuery, data governance frameworks)
-2. **`ai-deployment-playbook`** — Production AI deployment patterns: RAG, edge inference, monitoring
-3. **`technology-assessment-framework`** — PE/VC tech due diligence checklist and evaluation methodology
-4. **`executive-workflow-automation`** — AI-powered reporting and coordination systems for enterprise teams
-5. **`edge-ai-patterns`** — Edge computing patterns for real-time inference (NVIDIA Jetson, CBRS)
-
-## Let's Connect
-
-- 🌐 [jonathanlynshue.com](https://jonathanlynshue.com)
-- 💼 [LinkedIn](https://linkedin.com/in/jonathanlynshue)
-- 🐦 [Twitter/X](https://x.com/JohnnyShoe)
-- 📧 jonathan.lynshue@gmail.com
-
----
-
-*Currently taking on 1-2 fractional CIO/CTO engagements. If your company needs technology leadership at a fraction of the full-time cost — let's talk.*
+[jonathanlynshue.com](https://jonathanlynshue.com) · [LinkedIn](https://linkedin.com/in/jonathanlynshue) · [Book a call](https://cal.com/jonathanlynshue/discovery)
