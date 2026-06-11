@@ -13,13 +13,12 @@ I build AI workflow systems that remove executive reporting and coordination bot
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [correspond-os](https://github.com/jlynshue/correspond-os) | Multi-channel correspondence triage engine | TypeScript, Bun, MCP |
+| [open-ats](https://github.com/jlynshue/open-ats) | Open-source ATS resume scanner — transparent scoring | Python, NLP |
 | [local-private-orchestration](https://github.com/jlynshue/local-private-orchestration) | Privacy-preserving AI agent with PII detection | Python, MCP, SQLCipher |
 | [multi-model-query](https://github.com/jlynshue/multi-model-query) | Fan-out prompts to multiple AI models in parallel | Python, asyncio, Bedrock |
-| [open-ats](https://github.com/jlynshue/open-ats) | Open-source ATS resume scanner — transparent scoring | Python, NLP |
-| [leverage-os](https://github.com/jlynshue/leverage-os) | Strategic self-audit CLI (Naval Ravikant frameworks) | Python, AWS Bedrock |
+| [correspond-os](https://github.com/jlynshue/correspond-os) | Multi-channel correspondence triage engine | TypeScript, Bun, MCP |
 | [Sheila](https://github.com/jlynshue/Sheila) | Local-first research copilot with voice | Electron, Python, MCP |
-| [executive-workflow-mapping](https://github.com/jlynshue/executive-workflow-mapping) | Enterprise workflow diagnosis framework | Methodology, YAML |
+| [leverage-os](https://github.com/jlynshue/leverage-os) | Strategic self-audit CLI (Naval Ravikant frameworks) | Python, AWS Bedrock |
 
 ## Background
 
