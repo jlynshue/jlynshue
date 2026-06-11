@@ -36,4 +36,4 @@ I build AI workflow systems that remove executive reporting and coordination bot
 
 ## Connect
 
-[jonathanlynshue.com](https://jonathanlynshue.com) · [LinkedIn](https://linkedin.com/in/jonathanlynshue) · [Book a call](https://cal.com/jonathanlynshue/discovery)
+[jonathanlynshue.com](https://jonathanlynshue.com) · [LinkedIn](https://linkedin.com/in/jonathanlynshue) · [Book a call](https://jonathanlynshue.com/r/discovery-call?placement=github-profile)
