@@ -15,7 +15,7 @@ I build AI workflow systems that remove executive reporting and coordination bot
 |---------|-------------|-------|
 | [open-ats](https://github.com/jlynshue/open-ats) | Open-source ATS resume scanner — transparent scoring | Python, NLP |
 | [local-private-orchestration](https://github.com/jlynshue/local-private-orchestration) | Privacy-preserving AI agent with PII detection | Python, MCP, SQLCipher |
-| [multi-model-query](https://github.com/jlynshue/multi-model-query) | Fan-out prompts to multiple AI models in parallel | Python, asyncio, Bedrock |
+| [personal-productivity-dashboard](https://github.com/jlynshue/personal-productivity-dashboard) | Unified executive productivity dashboard — email, tasks, calendar, metrics | Next.js, TypeScript, React |
 | [correspond-os](https://github.com/jlynshue/correspond-os) | Multi-channel correspondence triage engine | TypeScript, Bun, MCP |
 | [Sheila](https://github.com/jlynshue/Sheila) | Local-first research copilot with voice | Electron, Python, MCP |
 | [leverage-os](https://github.com/jlynshue/leverage-os) | Strategic self-audit CLI (Naval Ravikant frameworks) | Python, AWS Bedrock |
