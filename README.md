@@ -25,7 +25,7 @@ I build AI workflow systems that remove executive reporting and coordination bot
 15+ years in enterprise data & AI — from Fortune 500 global programs to founding an edge-AI startup.
 
 - **Anuba Technologies** — CIO & Co-Founder. Edge computer vision for QSR. NVIDIA Inception. Two provisional patents.
-- **Stellantis** — Global analytics strategy across 14 automotive brands (250+ stakeholders)
+- **Stellantis** — Global analytics strategy across 16 automotive brands (250+ stakeholders)
 - **Southern Glazer's** — Analytics pipeline engineering; platform grew $100M → $1.4B+ in 18 months
 - **Razorfish/Publicis** — 11 years. Samsung, Marriott, Bridgestone, Disney. Enterprise digital transformation.
 
