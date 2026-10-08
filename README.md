@@ -1,38 +1,39 @@
 # Jonathan Lyn-Shue
 
-**Data & AI Executive** | Fractional CIO/CTO | [jonathanlynshue.com](https://jonathanlynshue.com)
+**Data & AI Executive** | Co-Founder & CIO, Anuba Technologies | Fractional CIO/CTO | [jonathanlynshue.com](https://jonathanlynshue.com)
 
-I build AI workflow systems that remove executive reporting and coordination bottlenecks — edge inference, multi-model orchestration, and privacy-first architecture. Enterprise rigor at startup velocity.
+I build data and AI systems for operationally complex companies — edge inference, multi-model orchestration and privacy-first architecture — and run them with enterprise-grade governance. Enterprise rigor at startup velocity.
 
 ## Currently
 
-- **Anuba Technologies** — Co-Founder & CIO. Edge AI for physical operations (NVIDIA Inception, 2 provisional patents)
-- **Fractional CIO/CTO** — Available for growth-stage companies needing senior technology leadership
+- **Anuba Technologies** — Co-Founder & CIO (Aug 2025 – present). Edge AI for physical operations: delivery lead for the edge computer-vision order-accuracy program on NVIDIA Jetson. NVIDIA Inception member; two provisional patents.
+- **Fractional CIO/CTO** (Apr 2025 – present) — fixed-scope diagnostic and sprint engagements for operationally complex organizations.
 
 ## Featured Projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [open-ats](https://github.com/jlynshue/open-ats) | Open-source ATS resume scanner — transparent scoring | Python, NLP |
-| [local-private-orchestration](https://github.com/jlynshue/local-private-orchestration) | Privacy-preserving AI agent with PII detection | Python, MCP, SQLCipher |
-| [multi-model-query](https://github.com/jlynshue/multi-model-query) | Fan-out prompts to multiple AI models in parallel | Python, asyncio, Bedrock |
-| [correspond-os](https://github.com/jlynshue/correspond-os) | Multi-channel correspondence triage engine | TypeScript, Bun, MCP |
-| [Sheila](https://github.com/jlynshue/Sheila) | Local-first research copilot with voice | Electron, Python, MCP |
-| [leverage-os](https://github.com/jlynshue/leverage-os) | Strategic self-audit CLI (Naval Ravikant frameworks) | Python, AWS Bedrock |
+| [open-ats](https://github.com/jlynshue/open-ats) | Open-source ATS resume scanner — transparent scoring, complete audit trails | Python, NLP |
+| [local-private-orchestration](https://github.com/jlynshue/local-private-orchestration) | Privacy-preserving AI agent — PII detection, secret scanning, safe MCP file access | Python, MCP |
+| [Sheila](https://github.com/jlynshue/Sheila) | Local-first research copilot with voice — Zotero + Obsidian | Electron, Python, MCP |
+| [earshot](https://github.com/jlynshue/earshot) | Local-first sound and voice notifications for Claude Code — alerts on tool failures, no cloud egress | Python |
+| [leverage-os](https://github.com/jlynshue/leverage-os) | Strategic self-audit CLI built on four Naval Ravikant frameworks | Python, AWS Bedrock |
 
 ## Background
 
-15+ years in enterprise data & AI — from Fortune 500 global programs to founding an edge-AI startup.
+15+ years in enterprise analytics, data and AI — from Fortune 500 programs to co-founding an edge-AI startup.
 
-- **Anuba Technologies** — CIO & Co-Founder. Edge computer vision for QSR. NVIDIA Inception. Two provisional patents.
-- **Stellantis** — Global analytics strategy across 14 automotive brands (250+ stakeholders)
-- **Southern Glazer's** — Analytics pipeline engineering; platform grew $100M → $1.4B+ in 18 months
-- **Razorfish/Publicis** — 11 years. Samsung, Marriott, Bridgestone, Disney. Enterprise digital transformation.
+- **Razorfish / Publicis Groupe** — Manager → Director, Data Instrumentation (May 2015 – Feb 2026). Nearly eleven years embedded with C-suite stakeholders across 13+ Fortune 500 accounts:
+  - **Stellantis** — BI, web analytics, data science, CRM and media architecture across 16 automotive brands (North America + Europe).
+  - **Bridgestone / Firestone** — enterprise data platform strategy across 50 websites and 16 countries.
+  - **Southern Glazer's Wine & Spirits** — rebuilt the GA360 → BigQuery pipeline method the client adopted as its standard practice.
+  - **Marriott International** — Google Marketing Platform implementation on GCP/BigQuery.
+  - Also Samsung, ADP, Church & Dwight, Air Canada, KPMG and Ralph Lauren.
 
 ## Tech
 
-`Python` `TypeScript` `AWS` `Azure` `GCP` `MCP` `Docker` `Terraform` `NVIDIA Jetson` `RAG` `Computer Vision` `BigQuery` `PostgreSQL` `Snowflake`
+`Python` `TypeScript` `SQL` `AWS (Bedrock)` `Azure` `GCP / BigQuery` `MCP` `RAG` `Docker` `Terraform` `NVIDIA Jetson` `Computer Vision` `PostgreSQL`
 
 ## Connect
 
-[jonathanlynshue.com](https://jonathanlynshue.com) · [LinkedIn](https://linkedin.com/in/jonathanlynshue) · [Book a call](https://jonathanlynshue.com/r/discovery-call?placement=github-profile)
+[jonathanlynshue.com](https://jonathanlynshue.com) · [LinkedIn](https://www.linkedin.com/in/jonathanlynshue/)
